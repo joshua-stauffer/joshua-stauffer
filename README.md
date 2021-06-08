@@ -1,5 +1,5 @@
 ### Hi there, I'm Josh! 👋
-I'm a guitarist/lutenist turned full-stack web developer. I'm currently finishing a batch at the [Recurse Center](https://www.recurse.com/), a three month self-directed retreat for programmers in Brooklyn. While at Recurse, I've been studying distributed systems, CQRS, TypeScript, GraphQL, and React, and have been building [the History Atlas](https://github.com/joshua-stauffer/thehistoryatlas).
+I'm a guitarist/lutenist turned full-stack web developer. I'm currently finishing a batch at the [Recurse Center](https://www.recurse.com/), a three month self-directed retreat for programmers in New York City. While at Recurse, I've been studying distributed systems, CQRS, TypeScript, GraphQL, and React, and have been building [the History Atlas](https://github.com/joshua-stauffer/thehistoryatlas).
 
 ## 🛠️ Recent Projects
 
@@ -29,7 +29,7 @@ For more recordings and music related information, visit www.joshuastauffer.com.
 
 
 
-## Education
+## 🎓 Education
 #### The Juilliard School 
 - Master of Music <i>(2020, Historical Plucked Instruments)</i>
 
