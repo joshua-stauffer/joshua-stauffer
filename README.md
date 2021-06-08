@@ -6,7 +6,7 @@ I'm a guitarist/lutenist turned full-stack web developer. I'm currently finishin
 ###  🌎   🌍   🌏  The History Atlas 
 I'm currently building an [open-source social-media inspired wiki](https://github.com/joshua-stauffer/thehistoryatlas) which creates a new way to explore history. Contributors upload scholarly citations and tag people, places, and times. Users explore the data by selecting a person, place, or time, and then scrolling through an event feed of known citations from that entity. As citations come into focus, the places referenced are drawn onto a map. 
 
-The backend is a series of Python microservices which communicate via RabbitMQ. The services are marshalled into a single GraphQL API using Apollo Server. Client side app is built in React, with state management through Apollo Client. 
+The backend is a series of Python microservices which communicate via RabbitMQ. The services are marshalled into a single endpoint GraphQL API using Apollo Server. Client side app is built in React, with state management through Apollo Client. 
 
 Think this sounds like a cool idea? Contributions are welcome - check out the [open issues](https://github.com/joshua-stauffer/thehistoryatlas/issues), and feel free to be in touch!
 
