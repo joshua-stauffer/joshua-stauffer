@@ -13,13 +13,13 @@ Think this sounds like a cool idea? Contributions are welcome - check out the [o
 ###  📝 EventBullet
 In my first week at Recurse I built [EventBullet](https://github.com/joshua-stauffer/EventBullet), a command line productivity app built in TypeScript, featuring a synchronous CQRS architecture.
 
-### 🐮 🐷 🐶 KuhHandel
+### 🐮 KuhHandel
 I built an [asynchronous game server](https://github.com/joshua-stauffer/Kuhhandel) for the board game Kuh Handel (animal auction) as a way to learn asynchronous programming. Implemented in Python with asyncio and websockets.
 
 ### 🌉 The Bridge Between
 I built and deployed [the bridge between](https://www.thebridgebetween.org), a resource for contextual therapists. Features [Flask backend](https://github.com/joshua-stauffer/bridge-flask), [interactive visual thesaurus](https://github.com/joshua-stauffer/visual-thesaurus) of technical terms built in D3.js, and a [content management system](https://github.com/joshua-stauffer/dashboard) in React to allow admins to edit and update content across the website.
 
-##  🎵 🎸 Music
+## 🎸 Music
 These days I mostly play the greatest hits of the 17th century on my theorbo, but I've worked professionally as a classical and jazz guitarist as well. Recent performances include concerts at Lincoln Center (New York), Chamber Music New Zealand (New Zealand), Opera Holland Park (London, England), and the Royal Opera House (Versailles, France).
 - [Robert de Viseé, Suite for Theorbo in C minor](https://youtu.be/ETa48V7M0eE)
 - [Carlo Farina, Sonata detta la fiamma (Time Canvas, archlute and violin)](https://youtu.be/-P62PCNJf3k)
