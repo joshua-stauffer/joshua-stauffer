@@ -11,7 +11,7 @@ The backend is a series of Python microservices which communicate via RabbitMQ. 
 Think this sounds like a cool idea? Contributions are welcome - check out the [open issues](https://github.com/joshua-stauffer/thehistoryatlas/issues), and feel free to be in touch!
 
 ## 🎸 Music
-These days I mostly play the greatest hits of the 17th century on my theorbo, but I've worked professionally as a classical and jazz guitarist as well. Recent performances include concerts at Lincoln Center (New York), Chamber Music New Zealand (New Zealand), Opera Holland Park (London, England), and the Royal Opera House (Versailles, France).
+These days I mostly play the greatest hits of the 17th century on my theorbo, but I've worked as a classical and jazz guitarist as well. Recent performances include concerts at Lincoln Center (New York), Chamber Music New Zealand (New Zealand), Opera Holland Park (London, England), and the Royal Opera House (Versailles, France).
 - [Robert de Viseé, Suite for Theorbo in C minor](https://youtu.be/ETa48V7M0eE)
 - [Carlo Farina, Sonata detta la fiamma (Time Canvas, archlute and violin)](https://youtu.be/-P62PCNJf3k)
 - [Elisabeth Jacquet de La Guerre (Digital Camerata with painter)](https://youtu.be/YOojtnzmKTU)
