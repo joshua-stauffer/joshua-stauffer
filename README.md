@@ -1,5 +1,5 @@
 ### Hi there, I'm Josh! 👋
-I'm a guitarist/lutenist turned full-stack web developer. I recently finished a batch at the [Recurse Center](https://www.recurse.com/), a three month self-directed retreat for programmers in New York City. While at Recurse, I studied distributed systems, CQRS, TypeScript, GraphQL, and React, and have been building [the History Atlas](https://github.com/joshua-stauffer/thehistoryatlas).
+I'm a full-stack engineer at Superconductive, the team behind Great Expectations, as well as a professional lutenist and guitarist. I recently finished a batch at the [Recurse Center](https://www.recurse.com/), a three month self-directed retreat for programmers in New York City. While at Recurse, I studied distributed systems, CQRS, TypeScript, GraphQL, and React, and have been building [the History Atlas](https://github.com/joshua-stauffer/thehistoryatlas).
 
 ## 🛠️ Recent Projects
 
