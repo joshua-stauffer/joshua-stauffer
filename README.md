@@ -4,10 +4,10 @@ Before software, a decade performing on lutes and guitars across the US and Euro
 
 ### Recent work at GX
 
-- Agentic AI systems across the product surface — automated triage and bug-fix drafting on the OSS repo, LLM-driven Expectation generation in the cloud.
-- Technical lead on the v1 rewrite of [`airflow-provider-great-expectations`](https://github.com/great-expectations/airflow-provider-great-expectations) (~43k weekly downloads).
-- One of three engineers on the GX Core v1 rebuild — co-designed the public APIs.
-- Technical lead on the GX Cloud v0 → v1 schema migration — rebuild domain logic around v1, down-translate at a v0 API layer, ship v1 in parallel. Zero customer-facing breakage.
+- Agentic AI systems across the product surface
+- [`airflow-provider-great-expectations`](https://github.com/great-expectations/airflow-provider-great-expectations) (~43k weekly downloads).
+- GX Core v1 rebuild — co-designed the public APIs.
+- GX Cloud v0 → v1 schema migration
 
 ### Side projects
 
