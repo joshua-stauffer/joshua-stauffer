@@ -1,4 +1,4 @@
-Senior software engineer at [Great Expectations](https://greatexpectations.io), based in Ticino, Switzerland. I joined the founding GX Cloud team in 2021. Most of my time now goes to agentic AI systems — both for maintaining the open-source library (~30M monthly PyPI downloads, 11.4k stars) and for LLM-powered features in the cloud product.
+Staff software engineer at Fivetran building [Great Expectations](https://github.com/fivetran/great_expectations), based in Ticino, Switzerland. I joined the founding GX Cloud team in 2021, and am now the full time maintainer of the OSS.
 
 Before software, a decade performing on lutes and guitars across the US and Europe.
 
