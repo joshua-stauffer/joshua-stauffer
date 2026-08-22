@@ -4,14 +4,9 @@ Before software, a decade performing on lutes and guitars across the US and Euro
 
 ### Recent work at GX
 
-- Agentic AI systems across the product surface
-- [`airflow-provider-great-expectations`](https://github.com/great-expectations/airflow-provider-great-expectations) (~43k weekly downloads).
+- [GX agent skills](https://docs.greatexpectations.io/docs/core/set_up_a_gx_environment/install_agent_skills/)
+- [`airflow-provider-great-expectations`](https://github.com/great-expectations/airflow-provider-great-expectations)
 - GX Core v1 rebuild — co-designed the public APIs.
-- GX Cloud v0 → v1 schema migration
-
-### Side projects
-
-**[History Atlas](https://github.com/joshua-stauffer/thehistoryatlas)** — open-source web application correlating historical people, places, and times in an interactive map and event feed. Two ingestion pipelines feed it: a self-hosted Wikidata instance for mass entity extraction, and an Anthropic-API-driven pipeline that mines structured events from scholarly historical works.
 
 ### Elsewhere
 
