@@ -1,4 +1,4 @@
-Staff software engineer at Fivetran building [Great Expectations](https://github.com/fivetran/great_expectations), based in Ticino, Switzerland. I joined the founding GX Cloud team in 2021, and am now the full time maintainer of the OSS.
+Staff software engineer at Fivetran building [Great Expectations](https://github.com/fivetran/great_expectations), based in Ticino, Switzerland. I joined the founding GX Cloud team in 2021, and now maintain the OSS.
 
 Before software, a decade performing on lutes and guitars across the US and Europe.
 
